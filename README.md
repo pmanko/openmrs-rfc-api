@@ -61,3 +61,21 @@ Once a proposal is merged, it is now part of the RFC. This means that we intend 
 the RFC apply to the whole frontend and we should make whatever changes are needed to our code, processes, and organization.
 
 ----
+
+## Proposed Modifications
+
+The RFC process for the Microfrontend Squad is hosted on this github project: https://github.com/openmrs/openmrs-rfc-frontend
+
+The process itself (write up a proposal, post it for review and comment, discuss, approve changes, merge) provides a solid framework for enacting change and driving development. However, Github has not the primary location for discussion in the OpenMRS community, and hosting the entire process on this site might impact visibility and community involvement. 
+
+OpenMRS Talk has hosted such discussions in the past, and might be more suited for this type of discourse.
+
+Proposal:
+
+Use both the Github and OpenMRS Talk platforms to their strengths
+
+- Use the Github project as the repository for the RFC text
+- Publish the RFC text to OpenMRS Talk, and use the Talk page as a reference point and location for discussions.
+- Update the OpenMRS Talk post with each major version of the RFC text that incorporates the discussion from the previous round. 
+- Connection to PRs and location for technical/dev-related discussion?
+  
